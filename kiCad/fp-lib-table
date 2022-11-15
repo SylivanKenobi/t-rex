@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "keyswitches")(type "KiCad")(uri "/home/sylivan/Documents/git/keyswitches.pretty")(options "")(descr ""))
   (lib (name "kicad-lib-arduino")(type "KiCad")(uri "/home/sylivan/Documents/git/kicad-lib-arduino")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "/home/sylivan/Documents/git/t-rex/Keebio-Parts.pretty")(options "")(descr ""))
 )

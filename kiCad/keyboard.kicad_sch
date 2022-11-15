@@ -2978,7 +2978,7 @@
     (property "Value" "Sparkfun_Pro_Micro" (id 1) (at 41.91 27.94 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "Arduino:Sparkfun_Pro_Micro" (id 2) (at 41.91 64.77 0)
+    (property "Footprint" "Keebio-Parts:ArduinoProMicro" (id 2) (at 41.91 64.77 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "https://www.sparkfun.com/products/12640" (id 3) (at 44.45 74.93 0)
@@ -4430,7 +4430,7 @@
       (reference "SW61") (unit 1) (value "MX") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/7fc6bb76-8a4f-42da-9619-6ff8c2a859d3"
-      (reference "U0") (unit 1) (value "Sparkfun_Pro_Micro") (footprint "Arduino:Sparkfun_Pro_Micro")
+      (reference "U0") (unit 1) (value "Sparkfun_Pro_Micro") (footprint "Keebio-Parts:ArduinoProMicro")
     )
   )
 )
