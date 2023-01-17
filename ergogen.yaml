@@ -1,0 +1,79 @@
+
+units:
+  # `U` is a predefined unit of measure that means 19.05mm, which is MX spacing
+  angle: -8
+points:
+  zones:
+    matrix:
+      rotate: angle
+      mirror: &mirror
+        ref: matrix_inner_bottom
+        shift: [0, -U]
+        distance: 3.7U
+      columns:
+        outer:
+          key:
+            column_net: P4
+            mirror.column_net: P9
+        pinky:
+          key:
+            column_net: P5
+            mirror.column_net: P8
+        ring:
+          key:
+            column_net: P6
+            mirror.column_net: P7
+        middle:
+          key:
+            column_net: P7
+            mirror.column_net: P6
+        index:
+          key:
+            column_net: P8
+            mirror.column_net: P5
+        inner:
+          key:
+            column_net: P9
+      rows:
+        bottom:
+          key:
+            padding: U
+            row_net: P22
+            mirror.row_net: P19
+        middle:
+          key:
+            padding: U
+            row_net: P21
+            mirror.row_net: P18            
+        home:
+          key:
+            padding: U
+            row_net: P20
+            mirror.row_net: P15
+        top:
+          key:
+            padding: U
+            row_net: P19
+            mirror.row_net: P14
+    macro_top:
+      anchor:
+        ref: matrix_inner_middle
+        rotate: 8
+        shift: [1.6U, 2]
+      columns:
+        one:
+          key.stagger: 1
+      rows:
+        one:
+    macro_bottom:
+      anchor:
+        ref: matrix_inner_bottom
+        rotate: 8
+        shift: [1.2U, 2]
+      columns:
+        one:
+          key:
+        two:
+          key:
+      rows:
+        one:
