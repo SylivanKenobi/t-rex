@@ -1849,7 +1849,7 @@
   (symbol (lib_id "Device:D_Small") (at 195.58 92.71 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 0146c72e-996a-4c2f-bd8d-b077f2bd4b89)
-    (property "Reference" "D8" (id 0) (at 193.548 93.98 0)
+    (property "Reference" "D7" (id 0) (at 193.548 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (id 1) (at 197.612 96.52 0)
@@ -1883,7 +1883,7 @@
   (symbol (lib_id "Device:D_Small") (at 71.12 92.71 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 06d43d94-c31e-49a3-8739-97b8a58d098c)
-    (property "Reference" "D1" (id 0) (at 69.088 93.98 0)
+    (property "Reference" "D0" (id 0) (at 69.088 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (id 1) (at 73.152 96.52 0)
@@ -1970,7 +1970,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 154.94 85.09 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 0a13b934-8197-4eaa-b39b-9d6399cd7a01)
-    (property "Reference" "SW6" (id 0) (at 157.48 82.55 0))
+    (property "Reference" "SW5" (id 0) (at 157.48 82.55 0))
     (property "Value" "MX" (id 1) (at 154.94 87.63 0))
     (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 154.94 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2124,7 +2124,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 66.04 110.49 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 13de4438-43e4-4ffb-b164-09057f62a794)
-    (property "Reference" "SW0" (id 0) (at 68.58 107.95 0))
+    (property "Reference" "SW12" (id 0) (at 68.58 107.95 0))
     (property "Value" "MX" (id 1) (at 66.04 113.03 0))
     (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 66.04 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2177,7 +2177,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 83.82 85.09 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 21c1a0a6-9383-4a80-9cad-db17120dd1fa)
-    (property "Reference" "SW2" (id 0) (at 86.36 82.55 0))
+    (property "Reference" "SW1" (id 0) (at 86.36 82.55 0))
     (property "Value" "MX" (id 1) (at 83.82 87.63 0))
     (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 83.82 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2526,7 +2526,7 @@
   (symbol (lib_id "Device:D_Small") (at 106.68 92.71 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 54cc2229-4609-4bcb-96fa-552af78f86d0)
-    (property "Reference" "D3" (id 0) (at 104.648 93.98 0)
+    (property "Reference" "D2" (id 0) (at 104.648 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (id 1) (at 108.712 96.52 0)
@@ -2560,7 +2560,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 190.5 85.09 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 5a6fb14f-1664-46c6-aab6-708283a519c4)
-    (property "Reference" "SW8" (id 0) (at 193.04 82.55 0))
+    (property "Reference" "SW7" (id 0) (at 193.04 82.55 0))
     (property "Value" "MX" (id 1) (at 190.5 87.63 0))
     (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 190.5 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2609,7 +2609,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 137.16 85.09 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 60c33d8c-7348-454c-842f-a2b0b0c2ddb1)
-    (property "Reference" "SW5" (id 0) (at 139.7 82.55 0))
+    (property "Reference" "SW4" (id 0) (at 139.7 82.55 0))
     (property "Value" "MX" (id 1) (at 137.16 87.63 0))
     (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 137.16 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2639,7 +2639,7 @@
   (symbol (lib_id "Device:D_Small") (at 177.8 92.71 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 61d2890c-4886-46bb-8430-7c2f961ecf81)
-    (property "Reference" "D7" (id 0) (at 175.768 93.98 0)
+    (property "Reference" "D6" (id 0) (at 175.768 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (id 1) (at 179.832 96.52 0)
@@ -2673,7 +2673,7 @@
   (symbol (lib_id "Device:D_Small") (at 88.9 92.71 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 6ce6ab5d-15e2-47fa-9675-cc2bb690ab3f)
-    (property "Reference" "D2" (id 0) (at 86.868 93.98 0)
+    (property "Reference" "D1" (id 0) (at 86.868 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (id 1) (at 90.932 96.52 0)
@@ -2726,7 +2726,7 @@
   (symbol (lib_id "Device:D_Small") (at 124.46 92.71 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 6f8864bb-bf10-4449-8eb6-8656e10e52f1)
-    (property "Reference" "D4" (id 0) (at 122.428 93.98 0)
+    (property "Reference" "D3" (id 0) (at 122.428 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (id 1) (at 126.492 96.52 0)
@@ -2764,7 +2764,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 226.06 85.09 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 72909a76-c889-4e71-93d9-96af0feb5665)
-    (property "Reference" "SW10" (id 0) (at 228.6 82.55 0))
+    (property "Reference" "SW9" (id 0) (at 228.6 82.55 0))
     (property "Value" "MX" (id 1) (at 226.06 87.63 0))
     (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 226.06 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2930,7 +2930,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 243.84 85.09 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 857f8174-6e53-483e-9e55-aa76633c873d)
-    (property "Reference" "SW11" (id 0) (at 246.38 82.55 0))
+    (property "Reference" "SW10" (id 0) (at 246.38 82.55 0))
     (property "Value" "MX" (id 1) (at 243.84 87.63 0))
     (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 243.84 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3047,7 +3047,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 119.38 85.09 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9338cdca-993b-4bcd-81af-5f997d653c0c)
-    (property "Reference" "SW4" (id 0) (at 121.92 82.55 0))
+    (property "Reference" "SW3" (id 0) (at 121.92 82.55 0))
     (property "Value" "MX" (id 1) (at 119.38 87.63 0))
     (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 119.38 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3062,7 +3062,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 172.72 85.09 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 960f816d-6112-4fd9-889c-8eea7d6e22f6)
-    (property "Reference" "SW7" (id 0) (at 175.26 82.55 0))
+    (property "Reference" "SW6" (id 0) (at 175.26 82.55 0))
     (property "Value" "MX" (id 1) (at 172.72 87.63 0))
     (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 172.72 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3231,7 +3231,7 @@
   (symbol (lib_name "SW_Push_1") (lib_id "Switch:SW_Push") (at 66.04 85.09 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid abb66488-5b6b-4c61-afbf-0e992f86369a)
-    (property "Reference" "SW1" (id 0) (at 68.58 82.55 0))
+    (property "Reference" "SW0" (id 0) (at 68.58 82.55 0))
     (property "Value" "MX" (id 1) (at 66.04 87.63 0))
     (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 66.04 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3337,7 +3337,7 @@
   (symbol (lib_id "Device:D_Small") (at 248.92 92.71 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b2a6c9d5-48a7-466a-9330-4dd3dca1e8c2)
-    (property "Reference" "D11" (id 0) (at 246.888 93.98 0)
+    (property "Reference" "D10" (id 0) (at 246.888 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (id 1) (at 250.952 96.52 0)
@@ -3356,7 +3356,7 @@
   (symbol (lib_id "Device:D_Small") (at 71.12 118.11 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b3d49e5b-7131-4975-8e80-bcc48420a3b9)
-    (property "Reference" "D0" (id 0) (at 69.088 119.38 0)
+    (property "Reference" "D12" (id 0) (at 69.088 119.38 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (id 1) (at 73.152 121.92 0)
@@ -3428,7 +3428,7 @@
   (symbol (lib_id "Device:D_Small") (at 142.24 92.71 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b7c9e9a6-9e50-413e-8527-56bb101a02ca)
-    (property "Reference" "D5" (id 0) (at 140.208 93.98 0)
+    (property "Reference" "D4" (id 0) (at 140.208 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (id 1) (at 144.272 96.52 0)
@@ -3545,7 +3545,7 @@
   (symbol (lib_id "Device:D_Small") (at 213.36 92.71 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid bfe4880a-ede1-4c25-a02b-06d768e44815)
-    (property "Reference" "D9" (id 0) (at 211.328 93.98 0)
+    (property "Reference" "D8" (id 0) (at 211.328 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (id 1) (at 215.392 96.52 0)
@@ -3602,7 +3602,7 @@
   (symbol (lib_id "Device:D_Small") (at 231.14 92.71 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid cc0b39b6-aca4-4edb-a681-9b7a6a06ace4)
-    (property "Reference" "D10" (id 0) (at 229.108 93.98 0)
+    (property "Reference" "D9" (id 0) (at 229.108 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (id 1) (at 233.172 96.52 0)
@@ -3733,7 +3733,7 @@
   (symbol (lib_id "Device:D_Small") (at 160.02 92.71 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid dbca194b-f89a-46f5-9b8f-065acc74e5e5)
-    (property "Reference" "D6" (id 0) (at 157.988 93.98 0)
+    (property "Reference" "D5" (id 0) (at 157.988 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (id 1) (at 162.052 96.52 0)
@@ -3752,7 +3752,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 261.62 85.09 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid dcddfa4e-e49c-41f2-8e7d-2fae45f0e8e2)
-    (property "Reference" "SW12" (id 0) (at 264.16 82.55 0))
+    (property "Reference" "SW11" (id 0) (at 264.16 82.55 0))
     (property "Value" "MX" (id 1) (at 261.62 87.63 0))
     (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 261.62 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3821,7 +3821,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 208.28 85.09 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid df75454b-def6-4ec6-ad98-3fbe73de8211)
-    (property "Reference" "SW9" (id 0) (at 210.82 82.55 0))
+    (property "Reference" "SW8" (id 0) (at 210.82 82.55 0))
     (property "Value" "MX" (id 1) (at 208.28 87.63 0))
     (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 208.28 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3836,7 +3836,7 @@
   (symbol (lib_id "Device:D_Small") (at 266.7 92.71 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid dfebc333-c5cf-4a57-9102-96a502f31d73)
-    (property "Reference" "D12" (id 0) (at 264.668 93.98 0)
+    (property "Reference" "D11" (id 0) (at 264.668 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (id 1) (at 268.732 96.52 0)
@@ -3870,7 +3870,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 101.6 85.09 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e3929d40-63d2-4419-8be6-e840dcbb24f2)
-    (property "Reference" "SW3" (id 0) (at 104.14 82.55 0))
+    (property "Reference" "SW2" (id 0) (at 104.14 82.55 0))
     (property "Value" "MX" (id 1) (at 101.6 87.63 0))
     (property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED" (id 2) (at 101.6 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4089,43 +4089,43 @@
     (path "/d76cef66-559e-4b46-8561-205fcd4698da"
       (reference "#PWR0104") (unit 1) (value "GND") (footprint "")
     )
-    (path "/b3d49e5b-7131-4975-8e80-bcc48420a3b9"
+    (path "/06d43d94-c31e-49a3-8739-97b8a58d098c"
       (reference "D0") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
-    (path "/06d43d94-c31e-49a3-8739-97b8a58d098c"
+    (path "/6ce6ab5d-15e2-47fa-9675-cc2bb690ab3f"
       (reference "D1") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
-    (path "/6ce6ab5d-15e2-47fa-9675-cc2bb690ab3f"
+    (path "/54cc2229-4609-4bcb-96fa-552af78f86d0"
       (reference "D2") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
-    (path "/54cc2229-4609-4bcb-96fa-552af78f86d0"
+    (path "/6f8864bb-bf10-4449-8eb6-8656e10e52f1"
       (reference "D3") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
-    (path "/6f8864bb-bf10-4449-8eb6-8656e10e52f1"
+    (path "/b7c9e9a6-9e50-413e-8527-56bb101a02ca"
       (reference "D4") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
-    (path "/b7c9e9a6-9e50-413e-8527-56bb101a02ca"
+    (path "/dbca194b-f89a-46f5-9b8f-065acc74e5e5"
       (reference "D5") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
-    (path "/dbca194b-f89a-46f5-9b8f-065acc74e5e5"
+    (path "/61d2890c-4886-46bb-8430-7c2f961ecf81"
       (reference "D6") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
-    (path "/61d2890c-4886-46bb-8430-7c2f961ecf81"
+    (path "/0146c72e-996a-4c2f-bd8d-b077f2bd4b89"
       (reference "D7") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
-    (path "/0146c72e-996a-4c2f-bd8d-b077f2bd4b89"
+    (path "/bfe4880a-ede1-4c25-a02b-06d768e44815"
       (reference "D8") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
-    (path "/bfe4880a-ede1-4c25-a02b-06d768e44815"
+    (path "/cc0b39b6-aca4-4edb-a681-9b7a6a06ace4"
       (reference "D9") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
-    (path "/cc0b39b6-aca4-4edb-a681-9b7a6a06ace4"
+    (path "/b2a6c9d5-48a7-466a-9330-4dd3dca1e8c2"
       (reference "D10") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
-    (path "/b2a6c9d5-48a7-466a-9330-4dd3dca1e8c2"
+    (path "/dfebc333-c5cf-4a57-9102-96a502f31d73"
       (reference "D11") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
-    (path "/dfebc333-c5cf-4a57-9102-96a502f31d73"
+    (path "/b3d49e5b-7131-4975-8e80-bcc48420a3b9"
       (reference "D12") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
     (path "/3bdf205f-2313-4ec1-abea-5df9c013fabb"
@@ -4272,43 +4272,43 @@
     (path "/46a7feb5-858d-4693-845a-23c92c970f79"
       (reference "J0") (unit 1) (value "Conn_01x03") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
-    (path "/13de4438-43e4-4ffb-b164-09057f62a794"
+    (path "/abb66488-5b6b-4c61-afbf-0e992f86369a"
       (reference "SW0") (unit 1) (value "MX") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
-    (path "/abb66488-5b6b-4c61-afbf-0e992f86369a"
+    (path "/21c1a0a6-9383-4a80-9cad-db17120dd1fa"
       (reference "SW1") (unit 1) (value "MX") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
-    (path "/21c1a0a6-9383-4a80-9cad-db17120dd1fa"
+    (path "/e3929d40-63d2-4419-8be6-e840dcbb24f2"
       (reference "SW2") (unit 1) (value "MX") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
-    (path "/e3929d40-63d2-4419-8be6-e840dcbb24f2"
+    (path "/9338cdca-993b-4bcd-81af-5f997d653c0c"
       (reference "SW3") (unit 1) (value "MX") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
-    (path "/9338cdca-993b-4bcd-81af-5f997d653c0c"
+    (path "/60c33d8c-7348-454c-842f-a2b0b0c2ddb1"
       (reference "SW4") (unit 1) (value "MX") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
-    (path "/60c33d8c-7348-454c-842f-a2b0b0c2ddb1"
+    (path "/0a13b934-8197-4eaa-b39b-9d6399cd7a01"
       (reference "SW5") (unit 1) (value "MX") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
-    (path "/0a13b934-8197-4eaa-b39b-9d6399cd7a01"
+    (path "/960f816d-6112-4fd9-889c-8eea7d6e22f6"
       (reference "SW6") (unit 1) (value "MX") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
-    (path "/960f816d-6112-4fd9-889c-8eea7d6e22f6"
+    (path "/5a6fb14f-1664-46c6-aab6-708283a519c4"
       (reference "SW7") (unit 1) (value "MX") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
-    (path "/5a6fb14f-1664-46c6-aab6-708283a519c4"
+    (path "/df75454b-def6-4ec6-ad98-3fbe73de8211"
       (reference "SW8") (unit 1) (value "MX") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
-    (path "/df75454b-def6-4ec6-ad98-3fbe73de8211"
+    (path "/72909a76-c889-4e71-93d9-96af0feb5665"
       (reference "SW9") (unit 1) (value "MX") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
-    (path "/72909a76-c889-4e71-93d9-96af0feb5665"
+    (path "/857f8174-6e53-483e-9e55-aa76633c873d"
       (reference "SW10") (unit 1) (value "MX") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
-    (path "/857f8174-6e53-483e-9e55-aa76633c873d"
+    (path "/dcddfa4e-e49c-41f2-8e7d-2fae45f0e8e2"
       (reference "SW11") (unit 1) (value "MX") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
-    (path "/dcddfa4e-e49c-41f2-8e7d-2fae45f0e8e2"
+    (path "/13de4438-43e4-4ffb-b164-09057f62a794"
       (reference "SW12") (unit 1) (value "MX") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
     )
     (path "/4be69c20-3a8d-433d-99b3-31ed9513728d"
