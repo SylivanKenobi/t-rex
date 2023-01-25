@@ -1,15 +1,9 @@
-[submodule "keyswitches.pretty"]
-	path = keyswitches.pretty
-	url = https://github.com/daprice/keyswitches.pretty.git
 [submodule "Keebio-Parts.pretty"]
 	path = Keebio-Parts.pretty
 	url = https://github.com/keebio/Keebio-Parts.pretty.git
-[submodule "Molex-0548190589.pretty"]
-	path = Molex-0548190589.pretty
-	url = https://github.com/ai03-2725/Molex-0548190589.pretty
 [submodule "MX_Alps_Hybrid.pretty"]
 	path = MX_Alps_Hybrid.pretty
 	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty
-[submodule "kbd"]
-	path = kbd
-	url = https://github.com/foostan/kbd.git
+[submodule "Molex-0548190589.pretty"]
+	path = Molex-0548190589.pretty
+	url = https://github.com/ai03-2725/Molex-0548190589.pretty
