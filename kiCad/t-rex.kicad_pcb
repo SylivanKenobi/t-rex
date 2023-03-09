@@ -275,7 +275,7 @@
 
   (footprint "LOGO" (layer "F.Cu")
     (tedit 0) (tstamp 090b9e5c-3810-4b2d-86ff-5b345e7a781d)
-    (at 126.365 77.47)
+    (at 123.828998 75.100522)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0) (layer "F.SilkS")
       (effects (font (size 1.524 1.524) (thickness 0.3)))
@@ -3437,7 +3437,7 @@
 
   (footprint "" (layer "F.Cu")
     (tedit 0) (tstamp 8074e520-da42-45e7-b288-9f861220a0c9)
-    (at 147.6375 61.9125)
+    (at 147.6375 42.8625)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
       (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp 7237a928-08dc-4c02-a6e7-31ceda3e468e)
@@ -6637,7 +6637,7 @@
 
   (footprint "LOGO" (layer "B.Cu")
     (tedit 0) (tstamp 8f27ef53-dbe1-49bd-b8f5-06d951129b95)
-    (at 171.065003 77.513522 180)
+    (at 171.446003 75.227522 180)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0) (layer "B.SilkS")
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
