@@ -1,6 +1,6 @@
 (fp_lib_table
-  (lib (name "Keebio-Parts")(type "KiCad")(uri "/home/sylivan/Documents/git/t-rex/Keebio-Parts.pretty")(options "")(descr ""))
-  (lib (name "Molex-0548190589")(type "KiCad")(uri "/home/sylivan/Documents/git/t-rex/Molex-0548190589.pretty")(options "")(descr ""))
-  (lib (name "kbd")(type "KiCad")(uri "/home/sylivan/Documents/git/t-rex/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
-  (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "/home/sylivan/Documents/git/t-rex/MX_Alps_Hybrid.pretty/MX_Alps_Hybrid.pretty")(options "")(descr ""))
+  (version 7)
+  (lib (name "Molex-0548190589")(type "KiCad")(uri "$(KIPRJMOD)/Molex.pretty")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "$(KIPRJMOD)/MX_Alps_Hybrid.pretty/MX_Alps_Hybrid.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "$(KIPRJMOD)/Keebio-Parts.pretty")(options "")(descr ""))
 )
