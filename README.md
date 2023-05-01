@@ -33,7 +33,6 @@ Example parts:
 
 ## Roadmap
 
-1. Closed cases flat and 7° angle
 1. Merge firmware to QMK
 
 ![image of keyboard](assets/t-rex-top.jpg)
