@@ -25,11 +25,23 @@ Example parts:
 
 > If you socket your controller, mount the controller before the switches and test the PCB.
 
-### Case
+### Cases
+
+#### Minimal Case
 
 1. Print [case](cases/minimal-case.stl) with 3d printer
 1. Mount standoffs with M2x5 from the top
 1. Mount case with M2x10 to standoffs
+
+#### Closed Case
+
+1. Print both sides of the [case](cases/closed-falt-case) with 3d printer
+1. Insert M2x4x3.5 Heat set inserts([exapmle](https://www.bastelgarage.ch/gewindeeinsatze-messing-insert-set-360-stuck))
+1. Mount pcb to case with M2x5 screws
+
+## Plate
+
+I would recommend using PCB-Mounted switches for this board. There is a 3d printable plate for the t-rex in this repo([file](cases/plate.stl)). The plate works but because it's 3d printed it's not that great.
 
 ## Roadmap
 
