@@ -35,7 +35,7 @@ Example parts:
 
 #### Closed Case
 
-1. Print both sides of the [case](cases/closed-falt-case) with 3d printer
+1. Print the case, depending on printer size you can either use the regular or the split version of the case.([case files](cases/closed-falt-case)) 
 1. Insert M2x4x3.5 Heat set inserts([exapmle](https://www.bastelgarage.ch/gewindeeinsatze-messing-insert-set-360-stuck))
 1. Mount pcb to case with M2x5 screws
 
