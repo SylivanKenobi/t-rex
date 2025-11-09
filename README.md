@@ -27,7 +27,7 @@ Example parts:
 1. Solder switches
 1. Solder controller
 1. [Flash QMK](https://github.com/SylivanKenobi/qmk_firmware/tree/master/keyboards/t_rex)
-1. [Or ZMK](https://github.com/devilzmods/trex_shield_module) - Download the latest working .uf2 file under the 'actions' tab, put the board into its bootloader by double tapping reset and copy the firmware file onto the controller.
+1. [Or ZMK](firmware/t_rex_zmk_studio.uf2) - Download the .uf2 file, put the board into its bootloader by double tapping reset and copy the firmware file onto the controller.
 1. For wireless, solder a battery (3,7V LiIon) or battery connector and power switch to the battery pins on the nice!nano.
 
 > If you socket your controller, mount the controller before the switches and test the PCB.
@@ -62,7 +62,7 @@ I would recommend using PCB-Mounted switches for this board. There is a 3d print
 
 ## Customizing Firmware
 
-ZMK Studio allows on the fly remapping of your keyboards keymap, similar to via/vial. For more in-depth configuration you can follow the (ZMK Customization Guide)[https://zmk.dev/docs/customization] to create your own config repo and add the (T-Rex Shield Module)[https://github.com/devilzmods/trex_shield_module]
+(ZMK Studio)[https://zmk.studio/] allows on the fly remapping of your keyboards keymap, similar to via/vial. For more in-depth configuration you can follow the (ZMK Customization Guide)[https://zmk.dev/docs/customization] to create your own config repo and add the (T-Rex Shield Module)[https://github.com/devilzmods/trex_shield_module]
 
 ## Roadmap
 
